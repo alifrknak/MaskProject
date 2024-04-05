@@ -13,6 +13,7 @@ namespace Business.Abstract
 
         List<Person> GetList();
 
+
         bool CheckPerson(Person person);
     }
 } 
